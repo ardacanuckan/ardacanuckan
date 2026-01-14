@@ -177,6 +177,8 @@ class Ardacan:
 
 <img src="https://streak-stats.demolab.com/?user=ardacanuckan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ardacanuckan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
 </div>
 
 ---
