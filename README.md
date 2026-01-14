@@ -16,7 +16,7 @@
 ---
 
 ```python
-class Ardacan:
+class Arda:
     def __init__(self):
         self.location = "Berlin, Germany 🇩🇪"
         self.current_role = "Tech Lead @Acta"
