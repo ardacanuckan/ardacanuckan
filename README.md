@@ -166,20 +166,6 @@ class Ardacan:
 
 ---
 
-## 📊 stats
-
-<div align="center">
-
-<a href="https://github.com/ardacanuckan">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardacanuckan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ardacanuckan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-
----
-
 ## 💭 philosophy
 
 > *"I don't wait for opportunities — I build them."*
