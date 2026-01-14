@@ -1,2 +1,190 @@
-# arda735
-Config files for my GitHub profile.
+<div align="center">
+
+# yo, i'm arda 🧠⚡
+
+**`Engineer of Ideas`**
+
+*turning crazy ideas into working products since 2005*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ardacanuckan)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tr/app/orderico/id6745510084)
+
+</div>
+
+---
+
+```python
+class Ardacan:
+    def __init__(self):
+        self.location = "Berlin, Germany 🇩🇪"
+        self.current_role = "Tech Lead @Acta"
+        self.side_quest = "Founding Product Engineer @Nova"
+        self.languages = ["Turkish 🇹🇷", "English 🇬🇧", "German 🇩🇪 (learning)"]
+        
+    def what_i_do(self):
+        return [
+            "build AI products that actually help people",
+            "turn sketches into production-ready apps",
+            "win robot competitions with rehab gloves",
+            "ship fast, break things, fix faster"
+        ]
+```
+
+---
+
+## 🏆 flex zone
+
+| Achievement | What Happened |
+|-------------|---------------|
+| 🥇 **National Champion** | 1st Place @ 14th International MEB Robot Competition — built a hand rehabilitation robot for stroke patients |
+| 🚀 **1000+ Users** | Nova AI Coaching App — hit 1K users in 2 months |
+| 🔬 **2 Research Papers** | Glaucoma & Keratoconus detection models (97.5% & 94.5% accuracy) — draft stage |
+| 🏅 **Startup Winner** | Day One Startup Challenge @ Jönköping University with Lazier.ai |
+
+---
+
+## 🛠️ tech arsenal
+
+<div align="center">
+
+**languages & frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**ai/ml**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+
+**cloud & devops**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-008B8B?style=flat-square&logo=altium-designer&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 what i've built
+
+<details>
+<summary><b>🤖 Medical AI Models</b> — saving lives with code</summary>
+<br>
+
+- **Glaucoma Detection & Segmentation** — 97.5% accuracy with YOLOv5
+- **Keratoconus Detection** — World's first OCT-based model, 94.5% accuracy  
+- **COVID-19 CT Scanner** — Deep learning model for chest CT analysis
+- **Bone Fracture Classification** — 85% accuracy on X-ray/CT images
+- **Bone Type Classification** — 99% accuracy (knee, elbow, hand)
+
+</details>
+
+<details>
+<summary><b>🗣️ Voice AI</b> — making machines talk & listen</summary>
+<br>
+
+- **Ultra-Fast STT** — 3 hours of audio transcribed in 30 seconds
+- **Multilingual TTS** — Turkish, English, German, Swedish, Finnish support
+- **AI Phone Assistant** — Built with Vapi.ai for automated inquiries
+
+</details>
+
+<details>
+<summary><b>📱 Apps & Platforms</b> — shipping products</summary>
+<br>
+
+- **[Orderico](https://apps.apple.com/tr/app/orderico/id6745510084)** — Order management & delivery logistics with route optimization
+- **Nova** — AI Coaching App (1000+ users, 100+ active)
+- **Vereinsatlas NRW** — Funding & project management for German NGOs
+
+</details>
+
+<details>
+<summary><b>🦾 Robotics</b> — where it all started</summary>
+<br>
+
+- **Hand Rehabilitation Robot** — Artificial muscle-powered glove for stroke patients (🥇 National Champion)
+- **Artificial Finger Muscle** — Custom material engineering & mechanical design
+- **Custom PCBs** — Motor drivers & sensor boards from scratch
+
+</details>
+
+---
+
+## 📍 journey so far
+
+```
+2025 ─────── Tech Lead @Acta (Berlin) 🇩🇪
+     │       Building AI products that serve humanity
+     │
+     ├────── Founding Product Engineer @Nova
+     │       AI Coaching App — 1K+ users
+     │
+     ├────── Civil Service @Bochumer Bildungszentrum (ESC)
+     │       AI automation, chatbots, Vereinsatlas
+     │
+2024 ─────── Entrepreneur @Science Park Jönköping 🇸🇪
+     │       Lazier.ai — Day One Challenge Winner
+     │
+2023 ─────── AI Engineer @Abra Partners (Istanbul)
+     │       STT/TTS, LLMs, OCR systems
+     │
+2022 ─────── 🥇 MEB Robot Competition Champion
+     │       Hand rehabilitation robot
+     │
+     ├────── Intern @Softtech (Istanbul)
+     │       Data Science, Sketch-to-Code, AI Community
+     │
+2020 ─────── Started the journey... 🚀
+```
+
+---
+
+## 📊 stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardacanuckan&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardacanuckan&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💭 philosophy
+
+> *"I don't wait for opportunities — I build them."*
+
+I'm 19, based in Berlin, and I've already shipped medical AI models, won national competitions, and built products with thousands of users. Not because I'm special, but because I start before I'm ready.
+
+**Currently interested in:** Medical AI, Voice AI, Agentic Systems, and anything that sounds impossible.
+
+---
+
+<div align="center">
+
+**let's build something crazy together**
+
+[![Email](https://img.shields.io/badge/ardacanuckan1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardacanuckan1@gmail.com)
+
+*"Creator of dozens of ideas — and I'm just getting started."*
+
+</div>
