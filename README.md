@@ -7,6 +7,7 @@
 *turning crazy ideas into working products since 2005*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ardacanuckan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ardacanuckan)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tr/app/orderico/id6745510084)
 
 </div>
@@ -18,7 +19,7 @@ class Ardacan:
     def __init__(self):
         self.location = "Berlin, Germany 🇩🇪"
         self.current_role = "Tech Lead @Acta"
-        self.side_quest = "Founding Product Engineer @Nova"
+        self.side_quest = "Building Nova & Reflecta @Acta"
         self.languages = ["Turkish 🇹🇷", "English 🇬🇧", "German 🇩🇪 (learning)"]
         
     def what_i_do(self):
@@ -50,6 +51,7 @@ class Ardacan:
 **languages & frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -62,7 +64,12 @@ class Ardacan:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-00A67E?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square&logo=probot&logoColor=white)
 
 **cloud & devops**
 
@@ -111,7 +118,8 @@ class Ardacan:
 <br>
 
 - **[Orderico](https://apps.apple.com/tr/app/orderico/id6745510084)** — Order management & delivery logistics with route optimization
-- **Nova** — AI Coaching App (1000+ users, 100+ active)
+- **[Nova](https://apps.apple.com/tr/app/nova-ai-companion/id6755164233)** — AI Companion App with voice mode, goal tracking & personalized coaching (1000+ users)
+- **[Reflecta](https://apps.apple.com/tr/app/reflecta-your-life-coach/id6747905384)** — AI Life Coach with guided reflection, smart insights & personalized meditations
 - **Vereinsatlas NRW** — Funding & project management for German NGOs
 
 </details>
@@ -134,8 +142,8 @@ class Ardacan:
 2025 ─────── Tech Lead @Acta (Berlin) 🇩🇪
      │       Building AI products that serve humanity
      │
-     ├────── Founding Product Engineer @Nova
-     │       AI Coaching App — 1K+ users
+     ├────── Building Nova & Reflecta @Acta
+     │       AI Companion & Life Coach Apps — 1K+ users
      │
      ├────── Civil Service @Bochumer Bildungszentrum (ESC)
      │       AI automation, chatbots, Vereinsatlas
@@ -161,9 +169,11 @@ class Ardacan:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardacanuckan&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ardacanuckan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardacanuckan&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardacanuckan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardacanuckan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -183,7 +193,7 @@ I'm 19, based in Berlin, and I've already shipped medical AI models, won nationa
 
 **let's build something crazy together**
 
-[![Email](https://img.shields.io/badge/ardacanuckan1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardacanuckan1@gmail.com)
+[![Email](https://img.shields.io/badge/ardacan@acta.so-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardacan@acta.so)
 
 *"Creator of dozens of ideas — and I'm just getting started."*
 
