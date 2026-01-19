@@ -1,99 +1,157 @@
 <div align="center">
 
-# yo, i'm arda 🧠⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=yo,%20i'm%20arda%20🧠⚡&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 **`Engineer of Ideas`**
 
 *turning crazy ideas into working products since 2005*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ardacanuckan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ardacanuckan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adacan.so)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tr/app/orderico/id6745510084)
+<a href="https://linkedin.com/in/ardacanuckan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/ardacanuckan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://instagram.com/adacan.so"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://apps.apple.com/tr/app/orderico/id6745510084"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ardacanuckan&color=blueviolet&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/ardacanuckan?style=flat-square&color=blue)
 
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Arda:
     def __init__(self):
         self.location = "Berlin, Germany 🇩🇪"
         self.current_role = "Tech Lead @Acta"
-        self.side_quest = "Building Nova & Reflecta @Acta"
-        self.languages = ["Turkish 🇹🇷", "English 🇬🇧", "German 🇩🇪 (learning)"]
+        self.current_focus = "Building AgentOS 🤖"
+        self.languages = ["Turkish 🇹🇷", "English 🇬🇧", "German 🇩🇪"]
         
     def what_i_do(self):
         return [
-            "build AI products that actually help people",
-            "turn sketches into production-ready apps",
-            "win robot competitions with rehab gloves",
-            "ship fast, break things, fix faster"
+            "architect AI agent systems at scale",
+            "build products that ship to thousands",
+            "win competitions with wild ideas",
+            "move fast, break things, fix faster"
         ]
+        
+    def currently_building(self):
+        return "AgentOS — Agent orchestration for an autonomous era"
 ```
 
----
-
-## 🏆 flex zone
-
-| Achievement | What Happened |
-|-------------|---------------|
-| 🥇 **National Champion** | 1st Place @ 14th International MEB Robot Competition — built a hand rehabilitation robot for stroke patients |
-| 🚀 **1000+ Users** | Nova AI Coaching App — hit 1K users in 2 months |
-| 🔬 **2 Research Papers** | Glaucoma & Keratoconus detection models (97.5% & 94.5% accuracy) — draft stage |
-| 🏅 **Startup Winner** | Day One Startup Challenge @ Jönköping University with Lazier.ai |
+<br clear="both"/>
 
 ---
 
-## 🛠️ tech arsenal
+## 🚀 Currently Building
 
 <div align="center">
 
-**languages & frameworks**
+<a href="https://github.com/actaso/agentvm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=actaso&repo=agentvm&theme=tokyonight&hide_border=true&border_radius=12" alt="AgentOS"/>
+</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+</div>
 
-**ai/ml**
+### 🤖 AgentOS — Agent Orchestration for an Autonomous Era
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-00A67E?style=flat-square&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square&logo=probot&logoColor=white)
+> *Low-abstraction VM orchestration for running thousands of agentic workflows in parallel*
 
-**cloud & devops**
+Building the infrastructure layer for autonomous AI agents. AgentOS is a production-grade system that:
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- **🔄 Orchestrates** massive parallel agent execution with intelligent resource management
+- **🛡️ Isolates** each workflow in lightweight containers to prevent prompt injection attacks  
+- **📡 Streams** real-time logs, token usage, and cost tracking via gRPC
+- **🔌 Integrates** with Claude, Gemini, and Goose tool CLIs seamlessly
+- **☁️ Deploys** to GCP Cloud Run with enterprise-grade security (IAM-authenticated gRPC)
 
-**hardware**
+**Tech Stack:** `Go` `gRPC` `Protobuf` `Docker` `Postgres/Neon` `TypeScript` `Next.js` `Bun`
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB_Design-008B8B?style=flat-square&logo=altium-designer&logoColor=white)
+---
+
+## 🏆 Flex Zone
+
+<div align="center">
+
+| Achievement | What Happened |
+|:---:|:---|
+| 🥇 **National Champion** | 1st Place @ 14th International MEB Robot Competition — hand rehabilitation robot for stroke patients |
+| 🚀 **1000+ Users** | Nova AI Coaching App — hit 1K users in 2 months |
+| 🔬 **2 Research Papers** | Glaucoma & Keratoconus detection models (97.5% & 94.5% accuracy) — draft stage |
+| 🏅 **Startup Winner** | Day One Startup Challenge @ Jönköping University with Lazier.ai |
+| 🤖 **AgentOS Lead** | Building enterprise-grade agent orchestration infrastructure @Acta |
 
 </div>
 
 ---
 
-## 🔥 what i've built
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### AI/ML & Agent Systems
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge&logo=probot&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+### Infrastructure & DevOps
+
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Hardware & Embedded
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-008B8B?style=for-the-badge&logo=altium-designer&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 What I've Built
 
 <details>
-<summary><b>🤖 Medical AI Models</b> — saving lives with code</summary>
+<summary><b>🤖 AgentOS & AgentVM</b> — orchestrating the autonomous era</summary>
+<br>
+
+> Production-grade agent orchestration infrastructure
+
+- **AgentVM** — Go-based VM orchestrator for parallel agentic workflows
+- **Real-time Streaming** — gRPC-based log streaming with token/cost tracking
+- **Container Isolation** — Lightweight Docker containers per workflow for security
+- **Multi-tool Support** — Claude, Gemini, Goose CLI integration
+- **Enterprise Deployment** — GCP Cloud Run with IAM authentication
+
+**Stack:** Go, gRPC, Protobuf, Docker, Neon/Postgres, TypeScript, Next.js, Bun
+
+</details>
+
+<details>
+<summary><b>🏥 Medical AI Models</b> — saving lives with code</summary>
 <br>
 
 - **Glaucoma Detection & Segmentation** — 97.5% accuracy with YOLOv5
@@ -119,8 +177,8 @@ class Arda:
 <br>
 
 - **[Orderico](https://apps.apple.com/tr/app/orderico/id6745510084)** — Order management & delivery logistics with route optimization
-- **[Nova](https://apps.apple.com/tr/app/nova-ai-companion/id6755164233)** — AI Companion App with voice mode, goal tracking & personalized coaching (1000+ users)
-- **[Reflecta](https://apps.apple.com/tr/app/reflecta-your-life-coach/id6747905384)** — AI Life Coach with guided reflection, smart insights & personalized meditations
+- **[Nova](https://apps.apple.com/tr/app/nova-ai-companion/id6755164233)** — AI Companion with voice mode, goal tracking & personalized coaching (1000+ users)
+- **[Reflecta](https://apps.apple.com/tr/app/reflecta-your-life-coach/id6747905384)** — AI Life Coach with guided reflection & personalized meditations
 - **Vereinsatlas NRW** — Funding & project management for German NGOs
 
 </details>
@@ -137,13 +195,33 @@ class Arda:
 
 ---
 
-## 📍 journey so far
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ardacanuckan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardacanuckan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ardacanuckan&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📍 Journey So Far
 
 ```
 2025 ─────── Tech Lead @Acta (Berlin) 🇩🇪
-     │       Building AI products that serve humanity
+     │       Building AgentOS — Agent orchestration for an autonomous era
      │
-     ├────── Building Nova & Reflecta @Acta
+     ├────── AgentVM Development
+     │       Go-based VM orchestrator for parallel agentic workflows
+     │
+     ├────── Nova & Reflecta @Acta
      │       AI Companion & Life Coach Apps — 1K+ users
      │
      ├────── Civil Service @Bochumer Bildungszentrum (ESC)
@@ -166,22 +244,32 @@ class Arda:
 
 ---
 
-## 💭 philosophy
+## 💭 Philosophy
+
+<div align="center">
 
 > *"I don't wait for opportunities — I build them."*
 
-I'm 19, based in Berlin, and I've already shipped medical AI models, won national competitions, and built products with thousands of users. Not because I'm special, but because I start before I'm ready.
+</div>
 
-**Currently interested in:** Medical AI, Voice AI, Agentic Systems, and anything that sounds impossible.
+I'm 19, based in Berlin, and I've already shipped medical AI models, won national competitions, built products with thousands of users, and now I'm architecting agent orchestration infrastructure. Not because I'm special, but because I start before I'm ready.
+
+**Currently obsessed with:** AgentOS, Agentic Systems, Medical AI, Voice AI, and anything that sounds impossible.
 
 ---
 
 <div align="center">
 
-**let's build something crazy together**
+## 🤝 Let's Build Something Crazy Together
 
-[![Email](https://img.shields.io/badge/ardacan@acta.so-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardacan@acta.so)
+<a href="mailto:ardacan@acta.so">
+<img src="https://img.shields.io/badge/ardacan@acta.so-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
 
 *"Creator of dozens of ideas — and I'm just getting started."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
