@@ -45,7 +45,7 @@ class Arda:
 
 ---
 
-## 🛠️ tech arsenal
+## 🛠️ tech
 
 <div align="center">
 
