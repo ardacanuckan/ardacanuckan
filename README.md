@@ -19,7 +19,8 @@
 class Arda:
     def __init__(self):
         self.location = "Berlin, Germany 🇩🇪"
-        self.current_role = "Healthtech VC · Biomedical Engineering @ Berlin"
+        self.current_role = "AI & Software Engineer Fellow @ Heal Capital"
+        self.studying = "Biomedical Engineering @ Berlin"
         self.side_quest = "Building AgentOS — Agent orchestration for an autonomous era"
         self.open_source = "SpaceLLM — radiation-tolerant transformers for orbital LLM training"
         self.languages = ["Turkish 🇹🇷", "English 🇬🇧", "German 🇩🇪 (learning)"]
@@ -169,8 +170,8 @@ class Arda:
 ## 📍 journey so far
 
 ```
-2026 ─────── Healthtech VC + Biomedical Engineering @ Berlin 🇩🇪
-     │       Investment side by day, biomed studies in parallel
+2026 ─────── AI & Software Engineer Fellow @Heal Capital 🇩🇪
+     │       Healthtech VC, Berlin · Biomedical Engineering in parallel
      │
      ├────── 🛰️ Built SpaceLLM
      │       Open-source radiation-tolerant transformer framework
@@ -219,7 +220,7 @@ I'm 19, based in Berlin, and I've already shipped medical AI models, won nationa
 
 **let's build something crazy together**
 
-[![Email](https://img.shields.io/badge/ardacan@acta.so-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardacan@acta.so)
+[![Email](https://img.shields.io/badge/ardacan.uckan@healcapital.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardacan.uckan@healcapital.com)
 
 *"Creator of dozens of ideas — and I'm just getting started."*
 
