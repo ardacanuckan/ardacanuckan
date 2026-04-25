@@ -19,7 +19,7 @@
 class Arda:
     def __init__(self):
         self.location = "Berlin, Germany 🇩🇪"
-        self.current_role = "Tech Lead @Acta"
+        self.current_role = "Healthtech VC · Biomedical Engineering @ Berlin"
         self.side_quest = "Building AgentOS — Agent orchestration for an autonomous era"
         self.open_source = "SpaceLLM — radiation-tolerant transformers for orbital LLM training"
         self.languages = ["Turkish 🇹🇷", "English 🇬🇧", "German 🇩🇪 (learning)"]
@@ -116,7 +116,6 @@ class Arda:
 
 - **Ultra-Fast STT** — 3 hours of audio transcribed in 30 seconds
 - **Multilingual TTS** — Turkish, English, German, Swedish, Finnish support
-- **AI Phone Assistant** — Built with Vapi.ai for automated inquiries
 
 </details>
 
@@ -170,12 +169,15 @@ class Arda:
 ## 📍 journey so far
 
 ```
-2026 ─────── 🛰️ Built SpaceLLM
+2026 ─────── Healthtech VC + Biomedical Engineering @ Berlin 🇩🇪
+     │       Investment side by day, biomed studies in parallel
+     │
+     ├────── 🛰️ Built SpaceLLM
      │       Open-source radiation-tolerant transformer framework
      │       for orbital LLM training (Starcloud-class workload)
      │
 2025 ─────── Tech Lead @Acta (Berlin) 🇩🇪
-     │       Building AI products that serve humanity
+     │       Built AI products that serve humanity
      │
      ├────── Building AgentOS & AgentVM @Acta
      │       Agent orchestration for autonomous AI workflows (Go + gRPC)
