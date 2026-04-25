@@ -21,6 +21,7 @@ class Arda:
         self.location = "Berlin, Germany 🇩🇪"
         self.current_role = "Tech Lead @Acta"
         self.side_quest = "Building AgentOS — Agent orchestration for an autonomous era"
+        self.open_source = "SpaceLLM — radiation-tolerant transformers for orbital LLM training"
         self.languages = ["Turkish 🇹🇷", "English 🇬🇧", "German 🇩🇪 (learning)"]
         
     def what_i_do(self):
@@ -28,6 +29,7 @@ class Arda:
             "build AI products that actually help people",
             "turn sketches into production-ready apps",
             "win robot competitions with rehab gloves",
+            "ship LLMs that survive being hit by cosmic rays",
             "ship fast, break things, fix faster"
         ]
 ```
@@ -38,6 +40,7 @@ class Arda:
 
 | Achievement | What Happened |
 |-------------|---------------|
+| 🛰️ **SpaceLLM** | Open-source Python framework for radiation-tolerant LLM training & inference in orbit — built for the Starcloud-class workload, validated against published RT PolarFire beam-test data |
 | 🥇 **National Champion** | 1st Place @ 14th International MEB Robot Competition — built a hand rehabilitation robot for stroke patients |
 | 🚀 **1000+ Users** | Nova AI Coaching App — hit 1K users in 2 months |
 | 🔬 **2 Research Papers** | Glaucoma & Keratoconus detection models (97.5% & 94.5% accuracy) — draft stage |
@@ -129,6 +132,19 @@ class Arda:
 </details>
 
 <details>
+<summary><b>🛰️ SpaceLLM</b> — radiation-tolerant transformers for orbital compute</summary>
+<br>
+
+- **[SpaceLLM](https://github.com/ardacanuckan/spacellm)** — open-source Python framework that protects HuggingFace transformers from single-event upsets during training and inference in space
+- 5 composable protection strategies (SelectiveTMR, AttentionChecksum, KVCacheParity, LayerNormTMR, EmbeddingChecksum) on top of any `torch.nn.Module`
+- Calibrated SEU-rate environment built on the four-parameter Weibull cross-section + IRPP integral, validated against publicly fetched RT PolarFire beam-test data within an ECSS-Q-ST-60-15C envelope
+- 217 / 217 unit tests, `mypy --strict` clean, nightly CI bench reproducing three multi-panel evaluation dashboards
+- Methodology preprint (12 pages, IMRAD, 15 references) shipped in the repo
+- Built for the orbital-LLM-training workload (Starcloud-class)
+
+</details>
+
+<details>
 <summary><b>📱 Apps & Platforms</b> — shipping products</summary>
 <br>
 
@@ -154,6 +170,10 @@ class Arda:
 ## 📍 journey so far
 
 ```
+2026 ─────── 🛰️ Built SpaceLLM
+     │       Open-source radiation-tolerant transformer framework
+     │       for orbital LLM training (Starcloud-class workload)
+     │
 2025 ─────── Tech Lead @Acta (Berlin) 🇩🇪
      │       Building AI products that serve humanity
      │
@@ -189,7 +209,7 @@ class Arda:
 
 I'm 19, based in Berlin, and I've already shipped medical AI models, won national competitions, and built products with thousands of users. Not because I'm special, but because I start before I'm ready.
 
-**Currently interested in:** Agent Orchestration, Autonomous Systems, Medical AI, Voice AI, and anything that sounds impossible.
+**Currently interested in:** Agent Orchestration, Autonomous Systems, Medical AI, Voice AI, **on-orbit ML & radiation-tolerant compute**, and anything that sounds impossible.
 
 ---
 
